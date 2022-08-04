@@ -12,7 +12,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>
     </head>
     <body class="sb-nav-fixed">
-        <?php include "headerAd.php" ?>
+        <?php include "./headerAd.php" ?>
             <div id="layoutSidenav_content">
                 <main>
                     <div class="container-fluid">
